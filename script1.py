@@ -32,4 +32,4 @@ x = np.linalg.solve(A, b)
 #check that the result is true
 print np.allclose(np.dot(A, x), b)
 
-
+#this is a comment just added for the exercise 1.5

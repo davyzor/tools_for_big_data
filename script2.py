@@ -4,6 +4,7 @@ from scipy import optimize
 import numpy as np
 from matplotlib import pyplot as plt 
 
+#cubic interpolation
 
 points = np.loadtxt('points_to_read.txt', delimiter=' ')
 

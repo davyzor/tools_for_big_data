@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#script that makes spellchecking between a file or stdin and a given dictionary
+
 echo -n "If you want to check the mispelled words from a file, enter '1'. If you want to check the mispelled words from the stdin, enter '2' "
 read mytext 
 
